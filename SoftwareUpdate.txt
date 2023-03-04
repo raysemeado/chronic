@@ -1,1 +1,1 @@
-Fix heatmaps width-height order bug (#7184)
+Add model.eval() in TensorBoad graph visualization to avoid BN stats changes (#8629)
