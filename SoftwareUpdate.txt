@@ -1,1 +1,1 @@
-Object Counter improvements (#8648)
+Add OBB models to GITHUB_ASSET_NAMES (#7425)
