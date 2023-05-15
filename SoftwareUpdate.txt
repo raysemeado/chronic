@@ -1,1 +1,1 @@
-Fix docs H1 tags (#7182)
+ultralytics 8.1.27 batched tracking fixes (#8842)
