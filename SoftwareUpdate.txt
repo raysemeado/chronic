@@ -1,1 +1,1 @@
-Update inference.cpp (bug) (#7279)
+Add Non-Maximum Suppression (NMS) inplace flag (#8368)
