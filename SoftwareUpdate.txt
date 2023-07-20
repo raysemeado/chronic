@@ -1,1 +1,1 @@
-Clarify triton server boolean value (#8532)
+Tab Manager - An easy way to batch-export, batch-close, and batch-add tabs
