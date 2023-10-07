@@ -1,1 +1,1 @@
-OBB: update metrics (#7593)
+Docs partial mdformat improvements (#7378)
