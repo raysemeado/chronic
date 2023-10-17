@@ -1,1 +1,1 @@
-Add C++ Classify inference example (#6868)
+Update Colab notebook for YOLOv8.1 (#8660)
