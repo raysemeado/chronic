@@ -1,1 +1,1 @@
-Use pathlib in DOTA ops (#7552)
+Integrate OpenVINO CUMULATIVE_THROUGHPUT mode batched inference (#8834)
