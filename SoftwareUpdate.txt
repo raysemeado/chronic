@@ -1,1 +1,1 @@
-Fix Yolo 8.0.206 scale bug (#7821)
+Expand Model method type hinting (#8279)
