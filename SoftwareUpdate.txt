@@ -1,1 +1,1 @@
-ultralytics 8.1.32 fix CLIP backwards compatibility (#9253)
+Add polygon regions drawing support in object-counting.md and minor docs update (#8885)
