@@ -1,1 +1,1 @@
-Docs updates: Add Explorer to tab, YOLOv5 in Guides and Usage in Quickstart (#7438)
+ultralytics 8.0.236 dataset semantic & SQL search API (#7136)
