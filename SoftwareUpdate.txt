@@ -1,1 +1,1 @@
-Update HTTP to HTTPS (#7548)
+Update YOLOv3 and YOLOv5 YAMLs (#7574)
