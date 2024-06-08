@@ -1,1 +1,1 @@
-Fix docs links (#7096)
+OpenVino 2024.0.0 (#8726)
