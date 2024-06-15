@@ -1,1 +1,1 @@
-Update CITATION.cff with cffinit corrections (#8658)
+Replace onnx2tf usage from CLI to Python (#8429)
